@@ -10,16 +10,16 @@ Any Suggest PM Me On Whatsapp or Telegram
 Fill Your 999Doge Account
 '''
 account = {
-	"Username":"vania2021",
-	"Password":"999999"
+	"Username":"user_miya",
+	"Password":"gosek@1"
 }
 '''
 Change Your Bet Strategy/Bet Setting
 '''
 betset = {
-	"Basebet":"0.01",
-	"Chance1":"80",
-	"Chance2":"81"
+	"Basebet":"0.023",
+	"Chance1":"75",
+	"Chance2":"80"
 }
 
 '''
@@ -29,8 +29,8 @@ IFLose = Increase Bet After Lose
 IFWin = Increase Bet After Win
 '''
 tools = {
-	"IFLose":"3.9",
-	"IFWin":"0.3",
+	"IFLose":"1.9",
+	"IFWin":"0.6",
 	"TargetProfit":"10.00",
 	"ResetBetIfWin":"2",
 	"ResetBetIfLose":"0",
@@ -60,8 +60,8 @@ feature = {
 Dont Forget To Change Your Wallet Here
 '''
 withdraw = {
-	"AutoWithdraw":"ON",
+	"AutoWithdraw":"OFF",
 	"AmountWithdraw":"25",
-	"WithdrawIfBalance":"300",
+	"WithdrawIfBalance":"3000000",
 	"Address":"328184608"
 }
