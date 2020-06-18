@@ -1,2 +1,0 @@
-# 99dice
-Sc dice
